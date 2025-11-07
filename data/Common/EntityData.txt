@@ -377,7 +377,7 @@ Monsters/Whimmzies coins=112500 fire-o@faerie-o 36000 20 coins=1@80@coins=150 Ma
 Monsters/Loodvigg diamonds=3750 celestial-o 14 5000000 coins=2000@21600@coins=20000 Celestial-r , 0 0
 Monsters/Buzzinga diamonds=500 mythical-o 82800 35 coins=10@120@coins=120 Mythical , 0 0
 Monsters/Shlep diamonds=750 mythical-o@dream-o 97200 70 coins=10@80@coins=150 Mythical , 0 0
-Monsters/Gobbley coins=0 spurrit 0 999999 coins=0@120@coins=60 Auxseasonal , 0 0
+Monsters/Gobbley coins=0 thanks-o 0 999999 coins=0@120@coins=60 Auxseasonal , 0 0
 
 Monsters/Bonapetite_rare diamonds=1250 electricity-o 0 20000000 diamonds=2,stars=2,stars=2@86400@diamonds=4,stars=4,stars=2 Supernatural-r , 0 0
 Monsters/Congle_rare coins=65000 air-o@water-o@cold-o 55800 30 coins=1@80@coins=180 Natural-r , 0 0
