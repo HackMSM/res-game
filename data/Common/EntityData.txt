@@ -388,6 +388,6 @@ Monsters/Pladdie_rare coins=750000 earth-o@cold@fire-o@faerie-o 153000 60 coins=
 Monsters/Uuduk_rare coins=500000 earth-o@fire-o@bone-o 91800 80 coins=1@72@coins=520 Magical-r , 0 0
 Monsters/Buzzinga_rare diamonds=625 mythical-o 103500 70 coins=10@120@coins=240 Mythical-r , 0 0
 Monsters/Shlep_rare diamonds=1100 mythical-o@dream-o 97200 140 coins=10@80@coins=300 Mythical-r , 0 0
-Monsters/Gobbley_rare coins=0 spurrit 0 999999 coins=0@120@coins=60 Auxseasonal-r , 0 0
+Monsters/Gobbley_rare coins=0 thanks-o 0 999999 coins=0@120@coins=60 Auxseasonal-r , 0 0
 
 Monsters/Monster_jeeode_young stars=120 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
