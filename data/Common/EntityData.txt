@@ -366,27 +366,27 @@ Monsters/Monster_dragong_dream coins=0 nightmare 0 999999 coins=0@120@coins=60 n
 
 
 Monsters/Bonapetite coins=100000 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural , 0 0
-Monsters/Congle coins=25000 air@water@cold 57600 5 coins=11@60@coins=7320 Natural , 0 0
+Monsters/Congle coins=25000 air@water@cold 43200 15 coins=1@80@coins=90 Natural , 0 0
 Monsters/Gnarls coins=750000 plant@earth@water@cold@fire 288000 50 coins=1@20@coins=20439 Natural , 0 0
 Monsters/Krillby coins=450000 air@earth@cold@fire 79200 40 coins=1@28@coins=550 Natural , 0 0
 Monsters/Pladdie coins=450000 earth@cold@fire@faerie 79200 40 coins=1@28@coins=550 Magical , 0 0
 Monsters/Scaratar diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-e scaratar,scaratar 0 0
 Monsters/Uuduk coins=225000 earth@fire@bone 36000 30 coins=1@72@coins=260 Magical , 0 0
-Monsters/Whimmzies coins=112500 fire@faerie 0 999999 coins=0@120@coins=60 Magical , 0 0
-Monsters/Loodvigg coins=0 celestial 0 999999 coins=0@120@coins=60 Celestial-r , 0 0
-Monsters/Buzzinga coins=0 mythical 0 999999 coins=0@120@coins=60 Mythical , 0 0
-Monsters/Shlep coins=0 mythical@dream 0 999999 coins=0@120@coins=60 Mythical , 0 0
+Monsters/Whimmzies coins=112500 fire@faerie 36000 20 coins=1@80@coins=150 Magical , 0 0
+Monsters/Loodvigg diamonds=3750 celestial 14 5000000 coins=2000@21600@coins=20000 Celestial-r , 0 0
+Monsters/Buzzinga diamonds=500 mythical 82800 35 coins=10@120@coins=120 Mythical , 0 0
+Monsters/Shlep diamonds=750 mythical@dream 97200 70 coins=10@80@coins=150 Mythical , 0 0
 Monsters/Gobbley coins=0 spurrit 0 999999 coins=0@120@coins=60 Auxseasonal , 0 0
 
-Monsters/Bonapetite_rare coins=200000 electricity 0 20000000 diamonds=2,stars=2,stars=2@86400@diamonds=4,stars=4,stars=2 Supernatural-r , 0 0
-Monsters/Congle_rare coins=0 air@water@cold 0 999999 coins=0@120@coins=60 Natural-r , 0 0
-Monsters/Gnarls_rare coins=1875000 plant@earth@water@cold@fire 343800 100 coins=1@20@coins=40878 Natural-r , 0 0
-Monsters/Krillby_rare coins=0 nightmare 0 999999 coins=0@120@coins=60 Natural-r , 0 0
-Monsters/Whimmzies_rare coins=0 nightmare 0 999999 coins=0@120@coins=60 Magical-r , 0 0
-Monsters/Pladdie_rare coins=0 nightmare 0 999999 coins=0@120@coins=60 Magical-r , 0 0
-Monsters/Uuduk_rare coins=0 mythical@dream 0 999999 coins=0@120@coins=60 Magical-r , 0 0
-Monsters/Buzzinga_rare coins=0 mythical 0 999999 coins=0@120@coins=60 Mythical-r , 0 0
-Monsters/Shlep_rare coins=0 mythical@dream 0 999999 coins=0@120@coins=60 Mythical-r , 0 0
+Monsters/Bonapetite_rare diamonds=1250 electricity 0 20000000 diamonds=2,stars=2,stars=2@86400@diamonds=4,stars=4,stars=2 Supernatural-r , 0 0
+Monsters/Congle_rare coins=65000 air@water@cold 55800 30 coins=1@80@coins=180 Natural-r , 0 0
+Monsters/Gnarls_rare coins=1875000 plant@earth@water@cold@fire 343800 200 coins=1@20@coins=40878 Natural-r , 0 0
+Monsters/Krillby_rare coins=750000 air@earth@cold@fire 189000 60 coins=1@56@coins=1100 Natural-r , 0 0
+Monsters/Whimmzies_rare coins=112500 fire@faerie 45000 40 coins=1@80@coins=300 Magical-r , 0 0
+Monsters/Pladdie_rare coins=750000 earth@cold@fire@faerie 153000 60 coins=1@56@coins=1100 Magical-r , 0 0
+Monsters/Uuduk_rare coins=500000 earth@fire@bone 91800 80 coins=1@72@coins=520 Magical-r , 0 0
+Monsters/Buzzinga_rare diamonds=625 mythical 103500 70 coins=10@120@coins=240 Mythical-r , 0 0
+Monsters/Shlep_rare diamonds=1100 mythical@dream 97200 140 coins=10@80@coins=300 Mythical-r , 0 0
 Monsters/Gobbley_rare coins=0 spurrit 0 999999 coins=0@120@coins=60 Auxseasonal-r , 0 0
 
 Monsters/Monster_jeeode_young stars=120 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
