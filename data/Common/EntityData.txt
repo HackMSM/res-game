@@ -116,22 +116,22 @@ Monsters/Monster_reebro diamonds=1000 mech 10 100 coins=2@72@coins=1000 Ethereal
 Monsters/Monster_sox diamonds=6000 crystal@plasma 10 100 coins=2@72@coins=1000 Ethereal sox,sox 0 0
 Monsters/Monster_sox_meduza diamonds=6000 crystal@plasma 10 100 coins=2@72@coins=1000 Ethereal sox,sox 0 0
 
-Monsters/Monster_hornacle diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial hornacle,hornacle 8 0
-Monsters/Monster_loodvigg diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial loodvigg,loodvigg 8 0
-Monsters/Monster_blasoom diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial blasoom,blasoom 8 0
-Monsters/Monster_torrt diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial torrt,torrt 8 0
-Monsters/Monster_scaratar diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial scaratar,scaratar 8 0
-Monsters/Monster_syncopite diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial syncopite,syncopite 8 0
-Monsters/Monster_attmoz diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial attmoz,attmoz 8 0
-Monsters/Monster_vhamp diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial vhamp,vhamp 8 0
-Monsters/Monster_furnoss diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial furnoss,furnoss 8 0
-Monsters/Monster_glaishur diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial glaishur,glaishur 8 0
-Monsters/Monster_galvana diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial galvana,galvana 8 0
-Monsters/Monster_plixie diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial plixie,plixie 8 0
-Monsters/Monster_light diamonds=10000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-s light,light 8 0
-Monsters/Monster_bone diamonds=10000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-s bone,bone 8 0
-Monsters/Monster_psychic diamonds=10000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-s psychic,psychic 8 0
-Monsters/Monster_faerie diamonds=10000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-s faerie,faerie 8 0
+Monsters/Monster_hornacle diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-e hornacle,hornacle 8 0
+Monsters/Monster_loodvigg diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-e loodvigg,loodvigg 8 0
+Monsters/Monster_blasoom diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-e blasoom,blasoom 8 0
+Monsters/Monster_torrt diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-e torrt,torrt 8 0
+Monsters/Monster_scaratar diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-e scaratar,scaratar 8 0
+Monsters/Monster_syncopite diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-e syncopite,syncopite 8 0
+Monsters/Monster_attmoz diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-e attmoz,attmoz 8 0
+Monsters/Monster_vhamp diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-e vhamp,vhamp 8 0
+Monsters/Monster_furnoss diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-e furnoss,furnoss 8 0
+Monsters/Monster_glaishur diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-e glaishur,glaishur 8 0
+Monsters/Monster_galvana diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-e galvana,galvana 8 0
+Monsters/Monster_plixie diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-e plixie,plixie 8 0
+Monsters/Monster_light diamonds=10000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Supercelestial-e light,light 8 0
+Monsters/Monster_bone diamonds=10000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Supercelestial-e bone,bone 8 0
+Monsters/Monster_psychic diamonds=10000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Supercelestial-e psychic,psychic 8 0
+Monsters/Monster_faerie diamonds=10000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Supercelestial-e faerie,faerie 8 0
 
 Monsters/Monster_phangler diamonds=500 water@fire 36000 15 coins=1@80@coins=90 Natural phangler,phangler 6 0
 Monsters/Monster_bridgit diamonds=750 faerie@earth@fire 36000 30 coins=1@72@coins=260 Magical bridgit,bridgit 6 0
@@ -365,22 +365,28 @@ Monsters/VOIDCORN_dream coins=0 nightmare 0 150 coins=0@120@coins=60 nightmare ,
 Monsters/Monster_dragong_dream coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
 
 
-Monsters/Bonapetite coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Congle coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Gnarls coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Krillby coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Pladdie coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Scaratar coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Uuduk coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Whimmzies coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Loodvigg coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Buzzinga coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Shlep coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Gobbley coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Bonapetite coins=20000 electricity 0 999999 coins=0@120@coins=60 Supernatural , 0 0
+Monsters/Congle coins=8000  air@water@cold 0 999999 coins=0@120@coins=60 Natural , 0 0
+Monsters/Gnarls coins=750000 plant@earth@water@cold@fire 288000 50 coins=1@20@coins=20439 Natural , 0 0
+Monsters/Krillby coins=0 nightmare 0 999999 coins=0@120@coins=60 Natural , 0 0
+Monsters/Pladdie coins=0 nightmare 0 999999 coins=0@120@coins=60 Magical , 0 0
+Monsters/Scaratar coins=0 celestial 0 999999 coins=0@120@coins=60 Celestial-e , 0 0
+Monsters/Uuduk coins=0 nightmare 0 999999 coins=0@120@coins=60 Magical , 0 0
+Monsters/Whimmzies coins=0 nightmare 0 999999 coins=0@120@coins=60 Magical , 0 0
+Monsters/Loodvigg coins=0 celestial 0 999999 coins=0@120@coins=60 Celestial-r , 0 0
+Monsters/Buzzinga coins=0 mythical 0 999999 coins=0@120@coins=60 Mythical , 0 0
+Monsters/Shlep coins=0 mythical@dream 0 999999 coins=0@120@coins=60 Mythical , 0 0
+Monsters/Gobbley coins=0 spurrit 0 999999 coins=0@120@coins=60 Auxseasonal , 0 0
 
-Monsters/Bonapetite_rare coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Congle_rare coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Krillby_rare coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Whimmzies_rare coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Bonapetite_rare coins=40000 electricity 0 999999 coins=0@120@coins=60 Supernatural-r , 0 0
+Monsters/Congle_rare coins=0 air@water@cold 0 999999 coins=0@120@coins=60 Natural-r , 0 0
+Monsters/Gnarls_rare coins=1875000 plant@earth@water@cold@fire 343800 100 coins=1@20@coins=40878 Natural-r , 0 0
+Monsters/Krillby_rare coins=0 nightmare 0 999999 coins=0@120@coins=60 Natural-r , 0 0
+Monsters/Whimmzies_rare coins=0 nightmare 0 999999 coins=0@120@coins=60 Magical-r , 0 0
+Monsters/Pladdie_rare coins=0 nightmare 0 999999 coins=0@120@coins=60 Magical-r , 0 0
+Monsters/Uuduk_rare coins=0 mythical@dream 0 999999 coins=0@120@coins=60 Magical-r , 0 0
+Monsters/Buzzinga_rare coins=0 mythical 0 999999 coins=0@120@coins=60 Mythical-r , 0 0
+Monsters/Shlep_rare coins=0 mythical@dream 0 999999 coins=0@120@coins=60 Mythical-r , 0 0
+Monsters/Gobbley_rare coins=0 spurrit 0 999999 coins=0@120@coins=60 Auxseasonal-r , 0 0
 
 Monsters/Monster_jeeode_young stars=120 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
