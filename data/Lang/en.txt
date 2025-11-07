@@ -992,22 +992,62 @@ str_stars_plasma=Plasmic Ooze
 
 str_class_Natural=Natural
 str_class_Natural-r=Natural(rare)
-str_class_Magical=Magical
-str_class_Magical-r=Magical(rare)
-str_class_Supernatural=Supernatural
-str_class_Supernatural-r=Supernatural(rare)
-str_class_Celestial=Celestial
-str_class_Celestial-s=Supercelestial
-str_class_Lost=Strayed
-str_class_Lost-r=Strayed(rare)
-str_class_Gamma=Gamma
-str_class_Seasonal=Seasonal
-str_class_Seasonal-r=Seasonal(rare)
+str_class_Natural-e=Natural(epic)
+
 str_class_Ethereal=Ethereal
 str_class_Ethereal-r=Ethereal(rare)
+str_class_Ethereal-e=Ethereal(epic)
+
+str_class_Magical=Magical
+str_class_Magical-r=Magical(rare)
+str_class_Magical-e=Magical(epic)
+
+str_class_Paironormal=Paironormal
+str_class_Paironormal-r=Paironormal(rare)
+str_class_Paironormal-e=Paironormal(epic)
+
+str_class_Supernatural=Supernatural
+str_class_Supernatural-r=Supernatural(rare)
+str_class_Supernatural-e=Supernatural(epic)
+
+str_class_Superethereal=Superethereal
+str_class_Superethereal-r=Superethereal(rare)
+str_class_Superethereal-e=Superethereal(epic)
+
+str_class_Celestial=Celestial(Young)
+str_class_Celestial-r=Celestial(Adult)
+str_class_Celestial-e=Celestial(Elder)
+
+str_class_Supercelestial=Supercelestial(Young)
+str_class_Supercelestial-r=Supercelestial(Adult)
+str_class_Supercelestial-e=Supercelestial(Elder)
+
+str_class_Lost=Strayed
+str_class_Lost-r=Strayed(rare)
+str_class_Lost-e=Strayed(epic)
+
+str_class_Gamma=Gamma
+str_class_Gamma-r=Gamma(rare)
+str_class_Gamma-e=Gamma(epic)
+
+str_class_Primordial=Primordial
+str_class_Primordial-r=Primordial(rare)
+str_class_Primordial-e=Primordial(epic)
+
+str_class_Seasonal=Seasonal
+str_class_Seasonal-r=Seasonal(rare)
+str_class_Seasonal-e=Seasonal(epic)
+
+str_class_Auxseasonal=Aux. Seasonal
+str_class_Auxseasonal-r=Aux. Seasonal(rare)
+str_class_Auxseasonal-e=Aux. Seasonal(epic)
+
 str_class_Dipster=Dipster
+
 str_class_Mythical=Mythical
 str_class_Mythical-r=Mythical(rare)
+str_class_Mythical-e=Mythical(epic)
+
 str_class_Legendary=Legendary
 
 str_teleporter=Symphonic Zeppelin
