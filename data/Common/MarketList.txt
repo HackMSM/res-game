@@ -813,9 +813,14 @@ Monsters/Gobbley
 monster_rares:
 Monsters/Bonapetite_rare
 Monsters/Congle_rare
+Monsters/Gnarls_rare
 Monsters/Krillby_rare
 Monsters/Whimmzies_rare
-Monsters/Gobbley
+Monsters/Pladdie_rare
+Monsters/Uuduk_rare
+Monsters/Buzzinga_rare
+Monsters/Shlep_rare
+Monsters/Gobbley_rare
 -
 decorations:
 Decoration/Decoration_test
