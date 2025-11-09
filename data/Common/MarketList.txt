@@ -541,6 +541,10 @@ Monsters/Monster_kayna_rare_undof
 Monsters/Monster_gumtromp_rare
 Monsters/Monster_wubbox_rare_undof
 -
+monster_epics:
+Monsters/Monster_noggin_epic_undof
+Monsters/Monster_gumtromp_epic
+-
 decorations:
 Decoration/Decoration_test
 Decoration/Decoration_test1
