@@ -580,6 +580,9 @@ Monsters/Monster_gumtromp_bio=A sweet demeanored treat, the adorable Gumtromp pa
 Monsters/Monster_gumtromp_rare=Rare Gumtromp
 Monsters/Monster_gumtromp_rare_bio=Rare Gumtromp bio
 
+Monsters/Monster_gumtromp_epic=Epic Gumtromp
+Monsters/Monster_gumtromp_epic_bio=The Epic Gumtromp dibs and dabbles in the culinary arts... It sometimes considers eating non candy monsters, so just make sure to keep an eye on it or else the Maws might be the ones being eaten. Although, it doesn't have a mouth. Infact, whatever resembled a mouth of it was gone (Phew!) instead gaining 2 extra trumpets.
+
 Monsters/Monster_keytrus=Keytrus
 Monsters/Monster_keytrus_bio=Like its surprisingly-close kin, the Koodahcane, Keytrus is far-disconnected from its fellow candy monsters via its complete inedibility! In fact, Keytrus often find themselves scavenging about the surface of the Konficshonn colossal for sour sweets and delicacies! This sweet -- or, rather, sour -- tooth is only satiated by the disc-shaped fruits found growing in the colossal's beard. It then uses specialized claws at the tips of its limbs, normally covered by leaflike feathers, to slice the orange in half, revealing 4 quadrants of flesh that can be tapped to produce a wonderfully whimsical tink! These fruits, called Discus Fruits by the other monsters, are actually not sour at all, but Keytrus doesn't know that... don't ruin its fun.
 
