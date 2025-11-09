@@ -401,4 +401,4 @@ Monsters/Gobbley_rare coins=0 thanks-o 0 999999 coins=0@120@coins=60 Auxseasonal
 
 Monsters/Monster_jeeode_young stars=120 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
 
-Monsters/Monster_gumtromp_epic diamonds=350 candy 28800 14 21600 20 coins=10@240@coins=960 Lost-r gumtromp_epic,gumtromp_epic 0 0
+Monsters/Monster_gumtromp_epic diamonds=500 candy 126360 40 coins=25@30@coins=300 Lost-r gumtromp_epic,gumtromp_epic 0 0

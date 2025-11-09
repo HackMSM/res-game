@@ -117,6 +117,8 @@ Monsters/Monster_noggin_rare_undof=Monsters/Monster_keytrus+Monsters/Monster_bra
 Monsters/Monster_noggin_epic_undof=Monsters/Monster_sprinklate+Monsters/Monster_phangler_undof 5
 Monsters/Monster_noggin_epic_undof=Monsters/Monster_sprinklate+Monsters/Monster_phangler_rare_undof 5
 
+Monsters/Monster_gumtromp_epic=Monsters/Monster_sprinklate+Monsters/Monster_koodahcane 5
+
 Monsters/Monster_kayna_rare_undof=Monsters/Monster_thrumble_undof+Monsters/Monster_brasscuit 10
 Monsters/Monster_kayna_rare_undof=Monsters/Monster_claramel+Monsters/Monster_brasscuit 10
 Monsters/Monster_kayna_rare_undof=Monsters/Monster_thrumble_undof+Monsters/Monster_claramel 10
