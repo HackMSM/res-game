@@ -1099,6 +1099,7 @@ btn_shop_deco_other=Other
 btn_shop_structures=Structures
 btn_shop_currency=Currency
 btn_shop_rares=Rares
+btn_shop_epics=Epics
 btn_shop_special=Specials
 btn_shop_celestials=Celestials
 btn_shop_babyMomsters=Young Monsters
