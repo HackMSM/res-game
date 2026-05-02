@@ -754,6 +754,7 @@ monsters:
 Monsters/Monster_olga diamonds=1000
 Monsters/Monster_potbellyGM diamonds=1000
 Monsters/Monster_quibbleGM diamonds=2000
+Monsters/Monster_tabicrab diamonds=2000
 -
 decorations:
 Decoration/Decoration_test
