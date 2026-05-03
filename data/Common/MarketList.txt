@@ -900,7 +900,7 @@ Bubble
 monsters:
 Monsters/Monster_fluoress
 Monsters/Monster_flowah
-Monsters/Monster_phangler
+Monsters/Monster_phangler diamonds=50
 Monsters/Monster_bisonorus
 Monsters/Monster_gjoob
 -
