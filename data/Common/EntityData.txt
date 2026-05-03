@@ -206,6 +206,8 @@ Monsters/Monster_phangler_rare_undof diamonds=100 water-o@fire-o 48600 9 coins=1
 Monsters/Monster_stogg_undof diamonds=50 earth-o@fire-o 36000 9 coins=6@60@coins=375 Natural stogg-o,stogg-o 0 0
 Monsters/Monster_stogg_rare_undof diamonds=100 earth-o@fire-o 48600 9 coins=12@240@coins=750 Natural-r stogg-o,stogg-o 0 0
 
+Monsters/Monster_flowah diamonds=50 plant@fire 36000 9 coins=6@60@coins=375 Natural flowah,flowah 0 0
+
 Monsters/Monster_thrumble_undof diamonds=100 earth-o@water-o@fire-o 72000 15 coins=12@60@coins=500 Natural thrumble-o,thrumble-o 0 0
 Monsters/Monster_thrumble_rare_undof diamonds=250 earth-o@water-o@fire-o 95400 30 coins=24@240@coins=1000 Natural-r thrumble-o,thrumble-o 0 0
 
