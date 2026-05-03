@@ -65,3 +65,6 @@ decorations:decorations=btn_shop_deco_all,deco_trees=btn_shop_deco_trees,deco_ot
 structures:structures
 composer:composer
 ;
+Bubble
+monsters:monsters=btn_shop_monsters,monster_rares=btn_shop_rares
+;
