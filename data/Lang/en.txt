@@ -203,6 +203,12 @@ Monsters/Monster_knurv_bio=Knurv bio
 Monsters/Monster_knurv_rock=Knurv Rock
 Monsters/Monster_knurv_rock_bio=Use some resources to carve and polish this special Hummatite rock, and form it into a Dreamythical from dreams long forgotten.
 
+Monsters/Monster_gjoob=G'joob
+Monsters/Monster_gjoob_bio=Gjoob bio
+
+Monsters/Monster_flowah=Flowah
+Monsters/Monster_flowah_bio=Flowah bio
+
 Monsters/Monster_reebro=Reebro
 Monsters/Monster_reebro_bio=Reebro bio
 
