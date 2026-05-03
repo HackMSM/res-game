@@ -896,3 +896,15 @@ Monsters/Monster_ghazt_undof
 Monsters/Monster_ghazt_rare_undof
 Monsters/Buzzinga
 ;
+Bubble
+monsters:
+Monsters/Monster_fluoress
+Monsters/Monster_flowah
+Monsters/Monster_phangler
+Monsters/Monster_bisonorus
+Monsters/Monster_gjoob
+-
+monster_rares:
+Monster/Monster_phangler_rare
+-
+;
